@@ -1,0 +1,5 @@
+name: Arun
+version: ${project.version}
+main: dev.micah.arun.Arun
+commands:
+  arun:

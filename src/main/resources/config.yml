@@ -1,0 +1,28 @@
+#########################################
+#   ░█████╗░██████╗░██╗░░░██╗███╗░░██╗  #
+#   ██╔══██╗██╔══██╗██║░░░██║████╗░██║  #
+#   ███████║██████╔╝██║░░░██║██╔██╗██║  #
+#   ██╔══██║██╔══██╗██║░░░██║██║╚████║  #
+#   ██║░░██║██║░░██║╚██████╔╝██║░╚███║  #
+#   ╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚═╝░░╚══╝  #
+#########################################
+# For support please join: https://discord.gg/QSxKqJQBPV
+
+# This will make it "single-server" mode so it will only work with 1 whole server (BungeeCord mode)
+bungee: false
+
+# The % of a region that will be generated with parkour. The higher the more parkour/blocks that will spawn. Recommended amount is about 12-15%.
+generation-percent: 12
+
+# The website/text that will show at the bottom of the game scoreboard
+scoreboard-footer: 'https://myserver.com/'
+
+# The amount of coins you get on doing certain things in game, this will be removed in the future when
+# addons become a feature. Any values set to 0 will be cancelled. More to come in the addon
+game-rewards:
+  core-block-break: 10 # When a user breaks an opposing core block
+  player-kill: 3 # When a user kills another player
+  game-win: 50 # When a user wins a game
+  game-played: 5 # Game played
+
+

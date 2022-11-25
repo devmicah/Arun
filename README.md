@@ -19,3 +19,10 @@ Generation System:
 ![image](https://user-images.githubusercontent.com/56208524/112507516-b51cc000-8d5c-11eb-8ebe-e8d49b829980.png)
 
 Here is an idea I have for the generation system. It calcualtes a line between 2 points set by a user with a "wand" similar to world edit. The 2 points will be saved into a .yml file. P1 and P2 represent the 2 points. The idea is to generate a random distance from the last jump, and a random distance from left to right.
+
+# Videos
+Region Management Systen: https://youtu.be/NHdfjIShxfs
+Game Configuration System: https://youtu.be/Wm5e0cHLdwM
+
+# Notice
+A published jar will not be uploaded as this was originally developed for a client. Open source code is avilable but build configurations will remain hidden.
